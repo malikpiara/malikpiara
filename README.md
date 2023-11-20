@@ -4,8 +4,6 @@ Talent is distributed globally but opportunities aren't. I want to change that.
 
 My name is Malik and I dream and fight for a world where anyone can have the freedom to decide who they want to be and what they want to pursue.
 
-Originally from Lisbon. I'm currently building Upframe, the mentor network for accelerators. In addition, I'm studying Product Management at CODE University in Berlin and taking CS50 from Harvard online.
-
 <!--
 **malikpiara/malikpiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
