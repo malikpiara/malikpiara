@@ -1,8 +1,12 @@
-### Hi there 👋
+# Only you know who you can set out to be — Never let anyone tell you otherwise.
 
-Talent is distributed globally but opportunities aren't. I want to change that.
+My name is Malik, I was born in Lisbon and moved to Berlin where I work in product enablement (what the industry calls Product Manager). In my free time, you can find me building apps, projects, events and communities that **foster connection, enable education and create more access to opportunities**.
 
-My name is Malik and I dream and fight for a world where anyone can have the freedom to decide who they want to be and what they want to pursue.
+### Right Now, I'm:
+- 🌐 Working on my capstone project and thesis at [CODE University](https://code.berlin/), exploring computer networks, distributed systems, blockchain and decentralisation. I want to build something that makes the web better and that could have been created at Mozilla or Cloudflare.
+- 🌱 Building and maintaining [Logicola](https://moonwith.com/logicola), an e-learning app, originally created by the late Harry Gensler, so more students can learn formal logic and improve their reasoning.
+- ✨ Looking to learn with more seasoned technical PMs and to collaborate in projects that improve the infrustructure of the internet. If you're stumbling upon my profile and feel like grabbing a digital coffee would be energising, please reach out:
+  -  [Telegram](https://t.me/malikpiara) | [Email](mailto:malik@hey.com) | [Personal Blog](https://moonwith.com/)
 
 <!--
 **malikpiara/malikpiara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
