@@ -4,7 +4,7 @@ My name is Malik, I was born in Lisbon and moved to Berlin where I work in produ
 
 ### Right Now, I'm:
 - 🌐 Working on my capstone project and thesis at [CODE University](https://code.berlin/), exploring computer networks, distributed systems, blockchain and decentralisation. I want to build something that makes the web better and that could have been created at Mozilla or Cloudflare.
-- 🌱 Building and maintaining [Logicola](https://moonwith.com/logicola), an e-learning app, originally created by the late Harry Gensler, so more students can learn formal logic and improve their reasoning.
+- 🌱 Building and maintaining [Logicola](https://logicola.org), an e-learning app, originally created by the late Harry Gensler, so more students can learn formal logic and improve their reasoning.
 - ✨ Looking to learn with more seasoned technical PMs and to collaborate in projects that improve the infrustructure of the internet. If you're stumbling upon my profile and feel like grabbing a digital coffee would be energising, please reach out:
   -  [Telegram](https://t.me/malikpiara) | [Email](mailto:malik@hey.com) | [Personal Blog](https://moonwith.com/)
 
